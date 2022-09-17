@@ -1,0 +1,83 @@
+
+
+
+.cabecalho{
+  text-align: center;
+}
+
+.cabecalho ol{
+  margin: 0;
+  background-color: #000000;
+  list-style: none;
+  padding:30px 30px;
+}
+
+.cabecalho ol a img{
+  margin-top: 0;
+  margin-left: 20px;
+  width: 700px;
+  height: 150px;
+}
+
+.cabecalho ul{
+  margin: 0;     
+  background-color: #ffaec8;
+  list-style: none;
+}
+
+.cabecalho ul li{
+  display: inline;
+  text-align: center;
+}
+
+.cabecalho ul li a{
+  padding: 3px 30px;
+  display: inline-block;
+  color: #000000;
+  text-decoration: none;
+}
+
+.cabecalho ul li a:hover{
+  color: #000000;
+}
+
+
+.rodape{
+  text-align: center;
+  margin: 0;
+  margin-bottom: -40px;
+}
+
+.rodape ul{
+  margin: 0;
+  background-color: #ffaec8;
+  list-style:none;
+}
+
+.rodape ul li{
+  display: inline;
+}
+
+.rodapeit{
+  width: 40px;
+  height: 40px;
+}
+
+.rodapett{
+  width: 40px;
+  height: 30px;
+  margin-left: 5px;
+}
+
+.rodape ul li p{
+  padding: 50px 500px;
+  display: inline-block;
+  color: #000000;
+  font-size: 18px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.rodape ul li p:hover{
+  color: #000000;
+}
